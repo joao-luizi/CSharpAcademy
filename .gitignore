@@ -1,0 +1,39 @@
+# Ignore user-specific and build-related files (but keep solution and project files)
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.csproj.user
+*.vcxproj.user
+*.plist
+
+# Ignore build directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Compiled DLL and exe
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.class
+*.war
+*.jar
+*.compiled
